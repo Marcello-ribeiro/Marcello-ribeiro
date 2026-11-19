@@ -1,68 +1,72 @@
-<div align="center">
-
-# Marcello Ribeiro
-
-**Estudante de Desenvolvimento de Sistemas**
-
-Desenvolvimento web · Bancos de dados · Linux · Cibersegurança
-
-📍 São Luís do Quitunde, AL — Brasil
-
-<a href="https://github.com/Marcello-ribeiro?tab=followers">
-  <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Marcello-ribeiro?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" />
-</a>
-<a href="https://instagram.com/Marcello.lzz">
-  <img alt="Instagram" title="Meu Instagram" src="https://custom-icon-badges.demolab.com/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-</div>
-
----
-
-## Sobre mim
-
-Estou construindo minha carreira na área de tecnologia, com foco em **desenvolvimento de sistemas, programação, bancos de dados e infraestrutura de TI**.
-
-Aprendo colocando a mão na massa: crio projetos próprios, testo tecnologias novas e resolvo problemas reais. Os projetos abaixo são o resultado disso.
-
-## Tecnologias
-
-<p>
-  <img alt="HTML" title="HTML" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />&nbsp;
-  <img alt="CSS" title="CSS" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />&nbsp;
-  <img alt="JavaScript" title="JavaScript" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />&nbsp;
-  <img alt="Python" title="Python" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />&nbsp;
-  <img alt="PostgreSQL" title="PostgreSQL" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />&nbsp;
-  <img alt="Git" title="Git" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />&nbsp;
-  <img alt="Linux" title="Linux" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />&nbsp;
-  <img alt="VS Code" title="Visual Studio Code" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-</p>
-
-## Projetos em destaque
-
-| Projeto | O que é | Tecnologias |
-| --- | --- | --- |
-| **[SaveVault](https://github.com/Marcello-ribeiro/save)** · [ver online](https://save-pearl-three.vercel.app) | Site para guardar e organizar saves de jogos na sua conta: envio de capa e saves, download, atualização e novas versões. | JavaScript, Supabase (Auth, banco e Storage), Vercel |
-| **[LZZ Voice](https://github.com/Marcello-ribeiro/LZZ-Voice)** · [ver online](https://lzz-voice.vercel.app) | Aplicativo de voz e texto com servidores privados, canais de texto e canais de voz. Versões para PC e Android. | JavaScript, Electron, Capacitor, WebRTC |
-| **[NOIR Store](https://github.com/Marcello-ribeiro/Noir)** · [ver online](https://noir-zeta-dusky.vercel.app) | Loja de roupas minimalistas com catálogo por categoria, cupom de desconto e pedido finalizado pelo WhatsApp. | HTML, CSS, JavaScript |
-| **[LZZ Sportshot](https://github.com/Marcello-ribeiro/Agendamentos)** · [ver online](https://agendamentos-rose.vercel.app) | Site de agendamento para fotografia esportiva e eventos, com portfólio e painel administrativo. | HTML, CSS, JavaScript |
-| **[Milly's Arts](https://github.com/Marcello-ribeiro/millys-artss)** | Loja de presentes personalizados com catálogo, carrinho e painel administrativo. | HTML, CSS, JavaScript, Node.js |
-| **[GitHub Card Generator](https://github.com/Marcello-ribeiro/Profile)** · [ver online](https://profile-gray-zeta.vercel.app) | Gera o card de GitHub Streak e os códigos Markdown/HTML para colar no perfil. | HTML, CSS, JavaScript |
-
-## Em estudo
-
-- 🗄️ SQL e PostgreSQL
-- 🌐 Desenvolvimento web
-- 🐍 Python
-- 🔗 Git e GitHub
-- 🐧 Linux
-- 🔐 Cibersegurança
-- 🖥️ Infraestrutura e suporte de TI
-- ⚙️ Lógica de programação e desenvolvimento de sistemas
-
-## Estatísticas
+<img src="assets/banner.svg" alt="Marcello Ribeiro, estudante de Desenvolvimento de Sistemas" width="100%" />
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Marcello-ribeiro&show_icons=true&theme=tokyonight&locale=pt-br" width="420" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Marcello-ribeiro&theme=tokyonight&layout=compact&langs_count=8&custom_title=Tecnologias" width="420" alt="Linguagens mais usadas" />
+  <a href="https://instagram.com/marcello.lzz"><img src="https://img.shields.io/badge/Instagram-@marcello.lzz-151821?style=flat-square&logo=instagram&logoColor=eceef5" alt="Instagram" /></a>
+  <img src="https://img.shields.io/badge/São%20Luís%20do%20Quitunde-AL%2C%20Brasil-151821?style=flat-square" alt="São Luís do Quitunde, AL, Brasil" />
+</p>
+
+<br />
+
+Estou construindo minha carreira em tecnologia, com foco em **desenvolvimento de sistemas**, **bancos de dados** e **infraestrutura de TI**. Aprendo fazendo: tiro ideias do papel, coloco no ar e vou melhorando a cada versão. Hoje também estudo **cibersegurança** e **Linux** no dia a dia.
+
+<br />
+
+## Projetos
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://millysarts.shop"><img src="assets/millys.jpg" alt="Milly's Arts no computador e no celular" /></a>
+      <h3>Milly's Arts</h3>
+      <p>Loja online de presentes personalizados feitos à mão. Catálogo com filtros, carrinho, cupons de desconto, pedido pronto no WhatsApp e painel para cadastrar produtos.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-151821?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/Supabase-151821?style=flat-square&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
+        <img src="https://img.shields.io/badge/Vercel-151821?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+      </p>
+      <a href="https://millysarts.shop"><b>Ver a loja</b></a> &nbsp;·&nbsp; <a href="https://github.com/Marcello-ribeiro/millys-artss">Código</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://save-pearl-three.vercel.app"><img src="assets/savevault.jpg" alt="SaveVault no computador e no celular" /></a>
+      <h3>SaveVault</h3>
+      <p>Cofre para saves de jogos. Cada pessoa tem a sua conta e a sua biblioteca: envia a capa e o save, baixa, atualiza e guarda versões antigas.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-151821?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/Supabase-151821?style=flat-square&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
+        <img src="https://img.shields.io/badge/Vercel-151821?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+      </p>
+      <a href="https://save-pearl-three.vercel.app"><b>Ver o site</b></a> &nbsp;·&nbsp; <a href="https://github.com/Marcello-ribeiro/save">Código</a>
+    </td>
+  </tr>
+</table>
+
+## Ferramentas
+
+<p>
+  <img src="https://img.shields.io/badge/HTML-151821?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-151821?style=for-the-badge&logo=css&logoColor=663399" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-151821?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-151821?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-151821?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/PostgreSQL-151821?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Supabase-151821?style=for-the-badge&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Git-151821?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-151821?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
+  <img src="https://img.shields.io/badge/Vercel-151821?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+</p>
+
+## Estudando agora
+
+| Área | Foco |
+| --- | --- |
+| Cibersegurança | Segurança da informação e Linux |
+| Bancos de dados | SQL e PostgreSQL |
+| Desenvolvimento | Lógica de programação, Python e desenvolvimento web |
+| Infraestrutura | Suporte de TI, Git e GitHub |
+
+## No GitHub
+
+<p>
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=Marcello-ribeiro&show_icons=true&locale=pt-br&hide_border=true&border_radius=14&bg_color=0b0d13&title_color=eceef5&text_color=9399ad&icon_color=c9cfe0" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Marcello-ribeiro&layout=compact&langs_count=6&locale=pt-br&hide_border=true&border_radius=14&bg_color=0b0d13&title_color=eceef5&text_color=9399ad&custom_title=Linguagens" alt="Linguagens mais usadas" />
 </p>
